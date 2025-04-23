@@ -41,3 +41,43 @@ Installation
 No installation required as this is a client-side application. Simply open the index.html file in any modern web browser.
 
 Usage
+Open the dashboard in your browser
+
+View analytics on the main dashboard
+
+Scroll down to see recent bookings and customer data
+
+Click the chat icon in the bottom right to interact with the AI assistant
+
+Data Structure
+The application uses sample data in JSON format for:
+
+Recent bookings (with status, type, and customer information)
+
+Customer profiles (with contact details and booking counts)
+
+Menu items (organized by category)
+
+Current promotions and offers
+
+Customization
+You can easily customize:
+
+Colors: Modify the CSS variables in the :root selector
+
+Data: Update the JavaScript arrays with your own data
+
+Charts: Adjust the Chart.js configurations as needed
+
+Future Enhancements
+Connect to a backend API for real data
+
+Add user authentication
+
+Implement booking management functionality
+
+Expand chatbot capabilities with natural language processing
+
+License
+This project is open-source and available under the MIT License.
+
